@@ -1,0 +1,17 @@
+C:\Users\silvestor\AppData\Local\Temporary Projects\TestovoeZadanie\bin\Debug\TestovoeZadanie.exe
+C:\Users\silvestor\AppData\Local\Temporary Projects\TestovoeZadanie\bin\Debug\TestovoeZadanie.pdb
+C:\Users\silvestor\AppData\Local\Temporary Projects\TestovoeZadanie\obj\x86\Debug\TestovoeZadanie.Form1.resources
+C:\Users\silvestor\AppData\Local\Temporary Projects\TestovoeZadanie\obj\x86\Debug\TestovoeZadanie.Properties.Resources.resources
+C:\Users\silvestor\AppData\Local\Temporary Projects\TestovoeZadanie\obj\x86\Debug\TestovoeZadanie.csproj.GenerateResource.Cache
+C:\Users\silvestor\AppData\Local\Temporary Projects\TestovoeZadanie\obj\x86\Debug\TestovoeZadanie.exe
+C:\Users\silvestor\AppData\Local\Temporary Projects\TestovoeZadanie\obj\x86\Debug\TestovoeZadanie.pdb
+D:\TestovoeZadanie\TestovoeZadanie\obj\x86\Debug\TestovoeZadanie.exe
+D:\TestovoeZadanie\TestovoeZadanie\obj\x86\Debug\TestovoeZadanie.pdb
+D:\TestovoeZadanie\TestovoeZadanie\bin\Debug\TestovoeZadanie.exe
+D:\TestovoeZadanie\TestovoeZadanie\bin\Debug\TestovoeZadanie.pdb
+D:\TestovoeZadanie\TestovoeZadanie\obj\x86\Debug\TestovoeZadanie.Form1.resources
+D:\TestovoeZadanie\TestovoeZadanie\obj\x86\Debug\TestovoeZadanie.Properties.Resources.resources
+D:\TestovoeZadanie\TestovoeZadanie\obj\x86\Debug\TestovoeZadanie.csproj.GenerateResource.Cache
+D:\TestovoeZadanie\TestovoeZadanie\obj\x86\Debug\TestovoeZadanie.csprojResolveAssemblyReference.cache
+D:\Тестовое задание\Папка с исходным кодом\TestovoeZadanie\TestovoeZadanie\obj\x86\Debug\TestovoeZadanie.exe
+D:\Тестовое задание\Папка с исходным кодом\TestovoeZadanie\TestovoeZadanie\obj\x86\Debug\TestovoeZadanie.pdb
